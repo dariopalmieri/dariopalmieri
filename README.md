@@ -22,7 +22,8 @@ Valoro el trabajo en equipo y la colaboración como camino para alcanzar los mej
 
 <br>
 
-### Lenguajes que manejo: ![Python Logo](https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/images/python-logo.png)
-
+### Lenguajes que manejo:
+💻 Tech Stack:
+HTML5 y Python
 
 
