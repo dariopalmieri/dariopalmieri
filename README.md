@@ -24,6 +24,6 @@ Valoro el trabajo en equipo y la colaboración como camino para alcanzar los mej
 
 ### Lenguajes que manejo:
 💻 Tech Stack:
-HTML5 y Python
+HTML, CSS, JavaScript y Python
 
 
