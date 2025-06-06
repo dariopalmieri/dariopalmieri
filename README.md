@@ -1,6 +1,6 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>HOLA ME LLAMO DARIO PALMIERI👋</b></h1>
+  <h1 align="center"><b>HOLA ME LLAMO DARIO PALMIERI</b></h1>
 </p>
 
 <p>
@@ -11,14 +11,14 @@ Valoro el trabajo en equipo y la colaboración como camino para alcanzar los mej
 <br>
 
 ### Yo soy un desarrollador de python 
-- 🔭 actualmente estoy buscando mi primer trabajo o pasantia para desarrollar mis habilidades
-- 🌱 actualmente estoy practicando POO en Python 
-- 👯 Busco colaborar con otros Desarrolladores 😉.
-- 🥅 2025 Objetivos contribuir en un codigo abierto
-- 💬 Pregúntame sobre cualquier cosa, estoy encantado de ayudar 😄.
-- 📬 Cómo contactar conmigo:Linkedin:Dario Palmieri ¡Pongámonos en contacto!
-- 🧗 intento: Ir más allá y superar los límites
-- ⚡ Dato curioso: Me encanta conectar con gente diferente 
+-actualmente estoy buscando mi primer trabajo o pasantia para desarrollar mis habilidades
+-actualmente estoy practicando POO en Python 
+-Busco colaborar con otros Desarrolladores.
+-2025 Objetivos contribuir en un codigo abierto
+-Pregúntame sobre cualquier cosa, estoy encantado de ayudar.
+-Cómo contactar conmigo:Linkedin:Dario Palmieri ¡Pongámonos en contacto!
+-intento: Ir más allá y superar los límites
+-Dato curioso: Me encanta conectar con gente diferente 
 
 <br>
 
